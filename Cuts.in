@@ -32,7 +32,7 @@ NGenTau		0  -1
 ***NRecoTriggers1     1   -1   ///events must fire the HLT_IsoMu24 trigger
 ***NRecoMuon1	      2   2 
 ***NRecoMuon2         2   2
-***NDiMuonCombinations	   0   -1
+***NDiMuonCombinations	   1   1
 ***NRecoTau1          1   1
 ***NRecoElectron1        0   0
 ***NRecoBJet          0   0
